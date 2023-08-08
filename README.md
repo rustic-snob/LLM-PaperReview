@@ -12,6 +12,6 @@ NLP / LLM 관련 논문 리뷰 레포입니다.
 - 2023 8/6 - 2023 10/19 Every Thursday.
 
 ## 일정 및 선정 논문
-  | Paper | Affiliation | Date to be published at ArXiv | # | Speaker | Youtube
--- | -- | -- | -- | -- | -- | -- 
-1st week | 미정 | 미정  | 미정 | 미정 | 천재원 | 미정
+  | Paper | a.k.a | Affiliation | published date | # | Speaker | Youtube
+-- | -- | -- | -- | -- | -- | -- | --
+1st week | 미정 | 미정 | 미정 | 미정 | 미정 | 천재원 | 미정
