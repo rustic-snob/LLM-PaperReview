@@ -17,7 +17,7 @@
 [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) | Chinchilla | | May. 2022 | \#Model<br>\#Foundation<br>\#Methodology
 [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) | LLaMA | Meta | February. 2023 | \#Model<br>\#Foundation<br>
 [\*Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html) | Alpaca | Stanford University | March. 2023 | \#Model<br>\#Finetuning<br>\#self-instruct
-[LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206)) | LIMA | Meta | May. 2023 | \#Model<br>\#Finetuning<br>\#Data-centric
+[LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) | LIMA | Meta | May. 2023 | \#Model<br>\#Finetuning<br>\#Data-centric
 [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707) | Orca | Microsoft | June. 2023 | \#Model<br>\#Finetuning<br>\#Methodology
 [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2205.05638) | LoRA | NC univ. \@chapel hill  | October. 2021 | \#PEFT
 [QLoRA: Efficient Finetuning of Quantized LLMss](https://arxiv.org/abs/2305.14314) | QLoRA | University of Washington  | May. 2023 | \#PEFT<br>\#LoRA
