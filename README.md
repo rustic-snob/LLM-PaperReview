@@ -14,4 +14,6 @@ NLP / LLM 관련 논문 리뷰 레포입니다.
 ## 일정 및 선정 논문
   | Paper | a.k.a | Affiliation | published date | # | Speaker | Youtube
 -- | -- | -- | -- | -- | -- | -- | --
-1st week | 미정 | 미정 | 미정 | 미정 | 미정 | 천재원 | 미정
+8.17 | [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864) | RoPE | Zhuiyi Technology | August. 2022 | \#PE<br>\#seq_len<br>\#ComplexPlane | 천재원 | 업로드 예정
+
+
