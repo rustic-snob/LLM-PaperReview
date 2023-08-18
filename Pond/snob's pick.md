@@ -19,9 +19,13 @@
 [\*Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html) | Alpaca | Stanford University | March. 2023 | \#Model<br>\#Finetuning<br>\#self-instruct
 [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) | LIMA | Meta | May. 2023 | \#Model<br>\#Finetuning<br>\#Data-centric
 [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707) | Orca | Microsoft | June. 2023 | \#Model<br>\#Finetuning<br>\#Methodology
+[Platypus: Quick, Cheap, and Powerful Refinement of LLMs](https://platypus-llm.github.io/Platypus.pdf) | Platypus | Boston University | August. 2023 | \#Model<br>\#Finetuning<br>\#Methodology
 [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2205.05638) | LoRA | NC univ. \@chapel hill  | October. 2021 | \#PEFT
-[QLoRA: Efficient Finetuning of Quantized LLMss](https://arxiv.org/abs/2305.14314) | QLoRA | University of Washington  | May. 2023 | \#PEFT<br>\#LoRA
-[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/abs/2205.05638) | IA3 | August. 2022 | \#PEFT<br>\#FewShot-learning
+[QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) | QLoRA | University of Washington  | May. 2023 | \#PEFT<br>\#LoRA
+[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/abs/2205.05638) | IA3 | NC univ. \@chapel hill | August. 2022 | \#PEFT<br>\#FewShot-learning
+[Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695) | ReLoRA | Massachusetts Lowel | August. 2023 | \#PEFT<br>\#LoRA
+[Knowledge Distillation of Large Language Models](https://arxiv.org/pdf/2306.08543.pdf) | MiniLLM | CoAI Group | Jun. 2023 | \#Distillation<br>\#White-box KD
+[LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition](https://arxiv.org/abs/2307.13269) | LoRAHub | Sea AI Lab | Jun. 2023 | \#PEFT<br>\#LoRA<br>\#Compose
 
 </div>
 
