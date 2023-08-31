@@ -16,5 +16,5 @@ NLP / LLM 관련 논문 리뷰 레포입니다.
 -- | -- | -- | -- | -- | -- | -- | --
 8.17 | [RoFormer: Enhanced Transformer with Rotary Position Embedding](https://arxiv.org/abs/2104.09864) | RoPE | Zhuiyi Technology | August. 2022 | \#PE<br>\#seq_len<br>\#ComplexPlane | 천재원 | [LINK](https://youtu.be/GUo0CzILNis)
 8.24 | [TRAIN SHORT, TEST LONG:<br>ATTENTION WITH LINEAR BIASES<br>ENABLES INPUT LENGTH EXTRAPOLATION](https://arxiv.org/abs/2108.12409)| ALiBi | Facebook | April. 2022 | \#seq_len<br>\#Extrapolation<br>\#Efficient | 이주형 | [LINK](https://youtu.be/ZFWZr_32Szg)
-8.31 | [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652) | FLAN | Google | Sep. 2021 | \#LM<br>\#Instruction\#Finetuning | 천소영 | [LINK](https://youtu.be/Ed7VN8y1Qpw)
+8.31 | [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652) | FLAN | Google | Sep. 2021 | \#LM<br>\#Instruction<br>\#Finetuning | 천소영 | [LINK](https://youtu.be/Ed7VN8y1Qpw)
 
