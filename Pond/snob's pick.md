@@ -26,7 +26,7 @@
 [Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695) | ReLoRA | Massachusetts Lowel | August. 2023 | \#PEFT<br>\#LoRA
 [Knowledge Distillation of Large Language Models](https://arxiv.org/pdf/2306.08543.pdf) | MiniLLM | CoAI Group | Jun. 2023 | \#Distillation<br>\#White-box KD
 [LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition](https://arxiv.org/abs/2307.13269) | LoRAHub | Sea AI Lab | Jun. 2023 | \#PEFT<br>\#LoRA<br>\#Compose
-
+[VLLM: Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) | VLLM |  | Sep. 2023 | \#PagedAttention<br>\#VirtualMemory<br>\#KVcache
 </div>
 
 \*: not a paper
