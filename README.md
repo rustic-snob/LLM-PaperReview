@@ -19,4 +19,4 @@ NLP / LLM 관련 논문 리뷰 레포입니다.
 8.31 | [Finetuned Language Models Are Zero-Shot Learners](https://arxiv.org/abs/2109.01652) | FLAN | Google | Sep. 2021 | \#LM<br>\#Instruction<br>\#Finetuning | 천소영 | [LINK](https://youtu.be/Ed7VN8y1Qpw)
 9.7 | [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244) | WizardLM | Microsoft | Jun. 2023 | \#LM<br>\#Instruction<br>\#Dataset | 박경택 | [LINK](https://youtu.be/lExKDCEGwAo)
 9.14 | [G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment](https://arxiv.org/abs/2303.16634) | G-Eval | Microsoft | May. 2023 | \#GPT4<br>\#Evaluation<br>\#Metric | 신혁준 | [LINK](https://youtu.be/21mY1rQfpT4)
-9.21 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821) | SimCSE | Princeton Univ. | May. 2022 | \#Embedding<br>\#Contrastive<br>　Learning | 김세형 | 예정
+9.21 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings](https://arxiv.org/abs/2104.08821) | SimCSE | Princeton Univ. | May. 2022 | \#Embedding<br>\#Contrastive<br>　Learning | 김세형 | [LINK](https://youtu.be/3kjyMxDaYQo)
