@@ -29,6 +29,7 @@ Following the newest & important LLM papers🤗
 [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://arxiv.org/abs/2205.05638) | IA3 | NC univ. \@chapel hill | August. 2022 | \#PEFT<br>\#FewShot-learning
 [Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695) | ReLoRA | Massachusetts Lowel | August. 2023 | \#PEFT<br>\#LoRA
 [LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition](https://arxiv.org/abs/2307.13269) | LoRAHub | Sea AI Lab | Jun. 2023 | \#PEFT<br>\#LoRA<br>\#Compose
+[VeRA: Vector-based Random Matrix Adaptation](https://arxiv.org/abs/2310.11454) | VeRA | University of Amsterdam | Oct. 2023 | \#PEFT
 
 
 ## Efficient Transformer
@@ -70,6 +71,7 @@ Following the newest & important LLM papers🤗
 [RWKV: <br>Reinventing RNNs for the Transformer Era](https://arxiv.org/abs/2305.13048) | RWKV | RWKV Foundation | May. 2023 | \#Architecture<br>\#Recurrent<br>\#Efficient
 [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621) | RetNet | Microsoft | July. 2023 | \#Architecture<br>\#Recurrent<br>\#Efficient
 [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866) | Hyena | - | April. 2023 | \#Architecture<br>\#Recurrent<br>\#Efficient
+[BitNet: Scaling 1-bit Transformers for Large Language Models](https://arxiv.org/abs/2310.11453) | 1-Bit Transformer | Microsoft | Oct. 2023 | \#Architecture<br>\#Quantized
 
 
 ## Etc.
@@ -78,5 +80,6 @@ Following the newest & important LLM papers🤗
 |-------|-------|-------------|----------------|---|------|
 [Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238) | - | Microsoft | Oct. 2023 | \#EraseMemory<br>\#Forgetting<br>\#Finetuning
 [Prometheus: Inducing Fine-grained Evaluation Capability in Language Models](https://arxiv.org/abs/2310.08491) | Prometheus | KAIST university | Oct. 2023 | \#Evaluation
+[In-Context Learning Creates Task Vectors](https://arxiv.org/abs/2310.15916) | Task-Vector | Tel Aviv University | Oct. 2023 | \#In-Context Learning
 
 \*: not a paper
