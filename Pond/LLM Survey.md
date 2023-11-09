@@ -10,7 +10,7 @@
   
 | Paper | a.k.a | Affiliation | Published date | # | Desc.|
 |-------|-------|-------------|----------------|---|------|
-[Sample](https://www.youtube.com/c/rusticsnob) | Sample | Sample | Sample | \#Sample
+[Sample](https://blank.page/) | Sample | Sample | Sample | \#Sample
 
 
 </div>
