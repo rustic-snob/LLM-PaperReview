@@ -64,7 +64,7 @@ Following the newest & important LLM papers🤗
 [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | DPO | Stanford University | May. 2023 | \#Finetuning</br>\#DPO
 
 
-## Cool New LLM Architecture 
+## Cool New LLM Architecture & Sub-Module
 
 | Paper | a.k.a | Affiliation | Published date | # | Desc.|
 |-------|-------|-------------|----------------|---|------|
@@ -72,7 +72,7 @@ Following the newest & important LLM papers🤗
 [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621) | RetNet | Microsoft | July. 2023 | \#Architecture<br>\#Recurrent<br>\#Efficient
 [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866) | Hyena | - | April. 2023 | \#Architecture<br>\#Recurrent<br>\#Efficient
 [BitNet: Scaling 1-bit Transformers for Large Language Models](https://arxiv.org/abs/2310.11453) | 1-Bit Transformer | Microsoft | Oct. 2023 | \#Architecture<br>\#Quantized
-
+[NEFTune: Noisy Embeddings Improve Instruction Finetuning](https://arxiv.org/abs/2310.05914) | NEFT | Maryland University | Oct. 2023 | \#SubModule<br>\#NoisedVector<br>\#Finetuning
 
 ## Etc.
 
