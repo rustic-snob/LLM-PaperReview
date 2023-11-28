@@ -12,6 +12,11 @@ NLP / LLM 관련 논문 리뷰 레포입니다.
 
 ## 일정 및 선정 논문
 
+### 2기
+  | Paper | a.k.a | Affiliation | published date | Speaker | Youtube
+-- | -- | -- | -- | -- | -- | -- 
+11.23| [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652) | REPLUG | Washington Univ. | May. 2023 | 김한성 | [LINK](https://youtu.be/fXnXH1gKHt4?feature=shared)
+
 ### 1기
   | Paper | a.k.a | Affiliation | published date | Speaker | Youtube
 -- | -- | -- | -- | -- | -- | -- 
@@ -24,8 +29,3 @@ NLP / LLM 관련 논문 리뷰 레포입니다.
 10.5 | [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) | LLaMA | Meta | Feb. 2023 | 김가영 | [LINK](https://youtu.be/s7SfAglnqpI)
 10.12 | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) | LoRA | Microsoft | Oct. 2021 | 신중현 | [LINK](https://youtu.be/xgfVVO2NZD0)
 10.19 | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | InstructGPT | OpenAI | March. 2022 | 홍영훈 | [LINK](https://youtu.be/joQAlQYLVz4)
-
-### 2기
-  | Paper | a.k.a | Affiliation | published date | Speaker | Youtube
--- | -- | -- | -- | -- | -- | -- 
-11.23| [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652) | REPLUG | Washington Univ. | May. 2023 | 김한성 | [LINK](https://youtu.be/fXnXH1gKHt4?feature=shared)
