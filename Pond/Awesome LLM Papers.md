@@ -14,6 +14,8 @@ Following the newest & important LLM papers🤗
 [Orca: Progressive Learning from Complex Explanation Traces of GPT-4](https://arxiv.org/abs/2306.02707) | Orca | Microsoft | June. 2023 | \#Model<br>\#Finetuning<br>\#Methodology
 [Platypus: Quick, Cheap, and Powerful Refinement of LLMs](https://platypus-llm.github.io/Platypus.pdf) | Platypus | Boston University | August. 2023 | \#Model<br>\#Finetuning<br>\#Methodology
 [Mistral 7B](https://arxiv.org/abs/2310.06825) | Mistral | Mistral.AI | Oct.2023 | \#Model<br>\#Finetuning<br>\#LightWeight
+[Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045) | Orca 2 | Microsoft | Nov.2023 | \#Model<br>\#Finetuning<br>\#Methodology
+
 
 
 ## PEFT
@@ -59,9 +61,10 @@ Following the newest & important LLM papers🤗
 | Paper | a.k.a | Affiliation | Published date | # | Desc.|
 |-------|-------|-------------|----------------|---|------|
 [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | InstructGPT | OpenAI | March. 2022 | \#Finetuning</br>\#PPO</br>\#Instruction
-[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) | Voyager | NVIDIA | Oct. 2023 | \#Prompting</br>\#Gam
+[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) | Voyager | NVIDIA | Oct. 2023 | \#Prompting</br>\#Game
 [Motif: Intrinsic Motivation from Artificial Intelligence Feedback](https://arxiv.org/abs/2310.00166) | Motif | Mila | Sep. 2023 | \#LLMfeedback</br>\#Game
 [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | DPO | Stanford University | May. 2023 | \#Finetuning</br>\#DPO
+[A General Theoretical Paradigm to Understand Learning from Human Preferences](arxiv.org/abs/2310.12036) | ΨPO | Google DeepMind | Nov. 2023 | \#Finetuning</br>\#ΨPO
 
 
 ## Cool New LLM Architecture & Sub-Module
@@ -73,6 +76,7 @@ Following the newest & important LLM papers🤗
 [Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866) | Hyena | - | April. 2023 | \#Architecture<br>\#Recurrent<br>\#Efficient
 [BitNet: Scaling 1-bit Transformers for Large Language Models](https://arxiv.org/abs/2310.11453) | 1-Bit Transformer | Microsoft | Oct. 2023 | \#Architecture<br>\#Quantized
 [NEFTune: Noisy Embeddings Improve Instruction Finetuning](https://arxiv.org/abs/2310.05914) | NEFT | Maryland University | Oct. 2023 | \#SubModule<br>\#NoisedVector<br>\#Finetuning
+[Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770) | FFFs | ETH Zurich | Nov. 2023 | \#FFNN<br>\#Speeding<br>
 
 
 ## Applications
@@ -89,5 +93,6 @@ Following the newest & important LLM papers🤗
 |-------|-------|-------------|----------------|---|------|
 [Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238) | - | Microsoft | Oct. 2023 | \#EraseMemory<br>\#Forgetting<br>\#Finetuning
 [In-Context Learning Creates Task Vectors](https://arxiv.org/abs/2310.15916) | Task-Vector | Tel Aviv University | Oct. 2023 | \#In-Context Learning
+[TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708) | TIES-Merging | NC univ. \@chapel hill | Oct. 2023 | \#ModelMerge
 
 \*: not a paper
