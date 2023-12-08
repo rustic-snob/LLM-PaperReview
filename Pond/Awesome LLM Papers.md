@@ -16,6 +16,8 @@ Following the newest & important LLM papers🤗
 [Mistral 7B](https://arxiv.org/abs/2310.06825) | Mistral | Mistral.AI | Oct.2023 | \#Model<br>\#Finetuning<br>\#LightWeight
 [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045) | Orca 2 | Microsoft | Nov.2023 | \#Model<br>\#Finetuning<br>\#Methodology
 [Zephyr: Direct Distillation of LM Alignment](https://arxiv.org/abs/2310.16944) | ZEPHYR | HuggingFace | Oct. 2023 | \#Finetuning</br>\#dDPO</br>\#distilled
+[OpenChat: Advancing Open-source Language Models with Mixed-Quality Data](https://arxiv.org/pdf/2309.11235.pdf) | OpenChat | Tsinghua Univ. | Sep. 2023 | \#Finetuning</br>\#C-RLFT</br>\#Mistral
+
 
 
 ## PEFT
