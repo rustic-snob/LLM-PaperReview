@@ -97,5 +97,9 @@ Following the newest & important LLM papers🤗
 [Who's Harry Potter? Approximate Unlearning in LLMs](https://arxiv.org/abs/2310.02238) | - | Microsoft | Oct. 2023 | \#EraseMemory<br>\#Forgetting<br>\#Finetuning
 [In-Context Learning Creates Task Vectors](https://arxiv.org/abs/2310.15916) | Task-Vector | Tel Aviv University | Oct. 2023 | \#In-Context Learning
 [TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708) | TIES-Merging | NC univ. \@chapel hill | Oct. 2023 | \#ModelMerge
+[UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations](https://arxiv.org/abs/2311.08469) | UNcommonsense | Cornell Univ. | Nov. 2023 | \#Reasoning<br>\#UnusualScenario
+[Language Model Inversion](https://arxiv.org/abs/2311.13647) | - | Cornell Univ. | Nov. 2023 | \#ReverseEngineering<br>\#PromptHacking
+[A Survey of Diffusion Models in Natural Language Processing](https://arxiv.org/abs/2305.14671) | - | Minnesota Univ. | June. 2023 | \#Diffusion<br>\#Survey
+
 
 \*: not a paper
