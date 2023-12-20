@@ -65,8 +65,24 @@ Following the newest & important LLM papers🤗
 [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | InstructGPT | OpenAI | March. 2022 | \#Finetuning</br>\#PPO</br>\#Instruction
 [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291) | Voyager | NVIDIA | Oct. 2023 | \#Prompting</br>\#Game
 [Motif: Intrinsic Motivation from Artificial Intelligence Feedback](https://arxiv.org/abs/2310.00166) | Motif | Mila | Sep. 2023 | \#LLMfeedback</br>\#Game
+[RRHF: Rank Responses to Align Language Models with Human Feedback without tears](https://arxiv.org/abs/2304.05302) | RRHF | Alibaba DAMO Academy | Oct. 2023 | \#Finetuning</br>\#RLHF
 [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | DPO | Stanford University | May. 2023 | \#Finetuning</br>\#DPO
 [A General Theoretical Paradigm to Understand Learning from Human Preferences](arxiv.org/abs/2310.12036) | ΨPO | Google DeepMind | Nov. 2023 | \#Finetuning</br>\#ΨPO
+[Reinforcement Learning in the Era of LLMs: What is Essential? What is needed? An RL Perspective on RLHF, Prompting, and Beyond](https://arxiv.org/abs/2310.06147) | - | Cambridge Univ. | Oct. 2023 | \#Survey</br>\#RLHF
+[Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/abs/2307.04964) | - | Fudan NLP Group | Jul. 2023 | \#Survey</br>\#PPO
+
+
+## Mixture-of-Experts
+| Paper | a.k.a | Affiliation | Published date | # | Desc.|
+|-------|-------|-------------|----------------|---|------|
+[\*Mixture of Experts: How an Ensemble of AI Models Decide As One](https://deepgram.com/learn/mixture-of-experts-ml-model-guide) | - | Deepgram | Oct. 2023 | \#MoE</br>\#History
+[Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538) | - | Google Brain | Jan. 2017 | \#MoE</br>\#Old-work
+[On the Representation Collapse of Sparse Mixture of Experts](https://arxiv.org/abs/2204.09179) | - | Beijing Institute of Technology | Oct. 2022 | \#MoE</br>\#Methodology
+[MegaBlocks: Efficient Sparse Training with Mixture-of-Experts](https://arxiv.org/abs/2211.15841) | - | - | Nov. 2022 | \#MoE</br>\#Methodology
+[Mixtral of experts](https://mistral.ai/news/mixtral-of-experts/) | Mixtral | Mistral AI.AI | Nov. 2023 | \#MoE</br>\#Model
+[QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models](https://arxiv.org/abs/2310.16795) | QMoE | - | Oct. 2023 | \#MoE</br>\#Methodology</br>\#Quantization
+
+
 
 
 ## Cool New LLM Architecture & Sub-Module
