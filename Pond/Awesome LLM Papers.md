@@ -120,4 +120,14 @@ Following the newest & important LLM papers🤗
 [A Survey of Diffusion Models in Natural Language Processing](https://arxiv.org/abs/2305.14671) | - | Minnesota Univ. | June. 2023 | \#Diffusion<br>\#Survey
 
 
+## ...Maybe Rather Better Diffuse Than Attend
+| Paper | a.k.a | Affiliation | Published date | # | Desc.|
+|-------|-------|-------------|----------------|---|------|
+[Non-Autoregressive Text Generation with Pre-trained Language Models](https://arxiv.org/abs/2102.08220v1) | - | Cambridge Univ. | Feb. 2021 | \#NAG
+[NAST: A Non-Autoregressive Generator with Word Alignment for Unsupervised Text Style Transfer](https://arxiv.org/abs/2106.02210v1) | NAST | CoAI group | Jun. 2021 | \#NAG
+[ELMER: A Non-Autoregressive Pre-trained Language Model for Efficient and Effective Text Generation](https://arxiv.org/abs/2210.13304v2) | ELMER | Renmin Univ. | Oct. 2022 | \#NAG
+[Directed Acyclic Transformer Pre-training for High-quality Non-autoregressive Text Generation](https://arxiv.org/abs/2304.11791v1) | PreDAT | CoAI group | April. 2023 | \#NAG
+[Diffusion Models for Non-autoregressive Text Generation: A Survey](https://arxiv.org/abs/2303.06574v2) | - | Renmin Univ. | May. 2023 | \#NAG<br>\#Diffusion
+
+
 \*: not a paper
