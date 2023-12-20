@@ -17,6 +17,7 @@ Following the newest & important LLM papers🤗
 [Orca 2: Teaching Small Language Models How to Reason](https://arxiv.org/abs/2311.11045) | Orca 2 | Microsoft | Nov.2023 | \#Model<br>\#Finetuning<br>\#Methodology
 [Zephyr: Direct Distillation of LM Alignment](https://arxiv.org/abs/2310.16944) | ZEPHYR | HuggingFace | Oct. 2023 | \#Finetuning</br>\#dDPO</br>\#distilled
 [OpenChat: Advancing Open-source Language Models with Mixed-Quality Data](https://arxiv.org/pdf/2309.11235.pdf) | OpenChat | Tsinghua Univ. | Sep. 2023 | \#Finetuning</br>\#C-RLFT</br>\#Mistral
+[MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models](https://arxiv.org/abs/2309.12284) | MetaMath | Cambridge Univ. | Oct. 2023 | \#Finetuning</br>\#Math
 
 
 
@@ -96,6 +97,7 @@ Following the newest & important LLM papers🤗
 [NEFTune: Noisy Embeddings Improve Instruction Finetuning](https://arxiv.org/abs/2310.05914) | NEFT | Maryland University | Oct. 2023 | \#SubModule<br>\#NoisedVector<br>\#Finetuning
 [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770) | FFFs | ETH Zurich | Nov. 2023 | \#FFNN<br>\#Speeding<br>
 [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906) | - | ETH Zurich | Nov. 2023 | \#SubModule<br>\#Speeding<br>\#LightWeight<br>
+[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | Mamba | Carnegie Mellon Univ. | Dec. 2023 | \#Architecture<br>\#SSM
 
 
 ## Applications
