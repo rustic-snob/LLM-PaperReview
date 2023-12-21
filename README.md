@@ -17,7 +17,7 @@ NLP / LLM 관련 논문 리뷰 레포입니다.
 -- | -- | -- | -- | -- | -- | -- 
 11.23| [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652) | REPLUG | Washington Univ. | May. 2023 | 김한성 | [LINK](https://youtu.be/fXnXH1gKHt4?feature=shared)
 11.30| [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) | Prefix-Tuning | Standford Univ. | Jan. 2021 | 임서연 | [LINK](https://youtu.be/1yQ0FQQ1uI0?si=T9UC9ySqOTucgh3I)
-12.7| [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) | QLoRA | Washington Univ. | May. 2021 | 이상민 | [LINK](https://youtu.be/QSZwKGB5cPI)
+12.7| [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) | QLoRA | Washington Univ. | May. 2023 | 이상민 | [LINK](https://youtu.be/QSZwKGB5cPI)
 
 ### 1기
   | Paper | a.k.a | Affiliation | published date | Speaker | Youtube
