@@ -4,9 +4,9 @@ Following the newest & important LLM papers🤗
 
 ## Foundation Models & Finetuned Family
 
-| Paper | a.k.a | Affiliation | Published date | # | Desc.|
+| Paper | a.k.a | Affiliation | Published date | # | HIGHLY<br>RECOMMENDED|
 |-------|-------|-------------|----------------|---|------|
-[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) | LLaMA | Meta | February. 2023 | \#Model<br>\#Foundation<br>
+[LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) | LLaMA | Meta | February. 2023 | \#Model<br>\#Foundation
 [\*Alpaca: A Strong, Replicable Instruction-Following Model](https://crfm.stanford.edu/2023/03/13/alpaca.html) | Alpaca | Stanford University | March. 2023 | \#Model<br>\#Finetuning<br>\#Self-instruct
 [\*Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality](https://lmsys.org/blog/2023-03-30-vicuna/) | Vicuna | LMSYS Org. | March. 2023 | \#Model<br>\#Finetuning<br>\#Methodology
 [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) | Chinchilla | - | May. 2022 | \#Model<br>\#Foundation<br>\#Methodology
@@ -108,6 +108,7 @@ Following the newest & important LLM papers🤗
 [NEFTune: Noisy Embeddings Improve Instruction Finetuning](https://arxiv.org/abs/2310.05914) | NEFT | Maryland University | Oct. 2023 | \#SubModule<br>\#NoisedVector<br>\#Finetuning
 [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770) | FFFs | ETH Zurich | Nov. 2023 | \#FFNN<br>\#Speeding<br>
 [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906) | - | ETH Zurich | Nov. 2023 | \#SubModule<br>\#Speeding<br>\#LightWeight<br>
+[Cached Transformers: Improving Transformers with Differentiable Memory Cache](https://arxiv.org/abs/2312.12742) | Cached Transformers | CUHK | Dec. 2023 | \#Recurrent<br>\#Vision<br>\#Efficiency
 [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | Mamba | Carnegie Mellon Univ. | Dec. 2023 | \#Architecture<br>\#SSM
 
 
