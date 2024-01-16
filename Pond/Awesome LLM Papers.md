@@ -18,7 +18,7 @@ Following the newest & important LLM papers🤗
 [Zephyr: Direct Distillation of LM Alignment](https://arxiv.org/abs/2310.16944) | ZEPHYR | HuggingFace | Oct. 2023 | \#Finetuning</br>\#dDPO</br>\#distilled
 [OpenChat: Advancing Open-source Language Models with Mixed-Quality Data](https://arxiv.org/pdf/2309.11235.pdf) | OpenChat | Tsinghua Univ. | Sep. 2023 | \#Finetuning</br>\#C-RLFT</br>\#Mistral
 [MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models](https://arxiv.org/abs/2309.12284) | MetaMath | Cambridge Univ. | Oct. 2023 | \#Finetuning</br>\#Math
-
+[TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385) | TinyLlama | StatNLP Research Group | Jan. 2024 | \#Finetuning</br>\#Efficient
 
 
 ## PEFT
@@ -57,6 +57,7 @@ Following the newest & important LLM papers🤗
 [A Length-Extrapolatable Transformer](https://arxiv.org/abs/2212.10554) | xPos | Microsoft | December. 2022 | \#PE<br>\#RoPE<br>\#ComplexPlane
 [\*Extending Context is Hard…but not Impossible](https://kaiokendev.github.io/context) | kaiokendev | - | February. 2023 |
 [EXTENDING CONTEXT WINDOW OF LARGE LANGUAGE MODELS VIA POSITION INTERPOLATION](https://arxiv.org/abs/2306.15595) | post-kaiokendev | Meta | Jun. 2023 | \#seq_len<br>\#Interpolation<br>\#RoPE
+[LongLoRA: Efficient Fine-tuning of Long-Context Large Language Models](https://arxiv.org/abs/2309.12307) | LongLoRA | CUHK | Dec. 2023 | \#seq_len<br>\#LoRA<br>\#ContinualTraining
 
 
 ## LLM & Reinforcement Learning
@@ -74,16 +75,26 @@ Following the newest & important LLM papers🤗
 
 
 ## Mixture-of-Experts
+
 | Paper | a.k.a | Affiliation | Published date | # | Desc.|
 |-------|-------|-------------|----------------|---|------|
 [\*Mixture of Experts: How an Ensemble of AI Models Decide As One](https://deepgram.com/learn/mixture-of-experts-ml-model-guide) | - | Deepgram | Oct. 2023 | \#MoE</br>\#History
 [Outrageously Large Neural Networks: The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/abs/1701.06538) | - | Google Brain | Jan. 2017 | \#MoE</br>\#Old-work
 [On the Representation Collapse of Sparse Mixture of Experts](https://arxiv.org/abs/2204.09179) | - | Beijing Institute of Technology | Oct. 2022 | \#MoE</br>\#Methodology
 [MegaBlocks: Efficient Sparse Training with Mixture-of-Experts](https://arxiv.org/abs/2211.15841) | - | - | Nov. 2022 | \#MoE</br>\#Methodology
-[Mixtral of experts](https://mistral.ai/news/mixtral-of-experts/) | Mixtral | Mistral AI.AI | Nov. 2023 | \#MoE</br>\#Model
+[Mixtral of experts](https://arxiv.org/abs/2401.04088) | Mixtral | Mistral AI | Jan. 2024 | \#MoE</br>\#Model
 [QMoE: Practical Sub-1-Bit Compression of Trillion-Parameter Models](https://arxiv.org/abs/2310.16795) | QMoE | - | Oct. 2023 | \#MoE</br>\#Methodology</br>\#Quantization
 
 
+## Expand and Enhance LLM
+
+| Paper | a.k.a | Affiliation | Published date | # | Desc.|
+|-------|-------|-------------|----------------|---|------|
+[\*Swallow: LLaMA-2](https://zenn.dev/tokyotech_lm/articles/d6cb3a8fdfc907) | - | 藤井 | Dec. 2023 | \#VocabExpand</br>\#Article
+[\*Tokenizer Expansion](https://seen-point-bd9.notion.site/Tokenizer-Expansion-ecb6d78211a54ba6b3cf8ebc0ec1d105#1f36bc3b970c465db5614a97cae2c55b) | - | Cheon Jaewon | Jan. 2024 | \#VocabExpand</br>\#How-to
+[LLaMA Beyond English: An Empirical Study on Language Capability Transfer](https://arxiv.org/abs/2401.01055) | - | Fudan University | Jan. 2024 | \#VocabExpand</br>\#Cons
+[LLaMA Pro: Progressive LLaMA with Block Expansion](https://arxiv.org/abs/2401.02415) | LLAMA PRO | Hong Kong Univ. | Jan. 2024 | \#LayerExpand
+[SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166) | Solar | Upstage | Dec. 2023 | \#LayerExpand
 
 
 ## Cool New LLM Architecture & Sub-Module
@@ -106,6 +117,7 @@ Following the newest & important LLM papers🤗
 |-------|-------|-------------|----------------|---|------|
 [Prometheus: Inducing Fine-grained Evaluation Capability in Language Models](https://arxiv.org/abs/2310.08491) | Prometheus | KAIST university | Oct. 2023 | \#Evaluation
 [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652) | REPLUG | Washington university | May. 2023 | \#Retrieval<br>\#RAG
+[Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368) | - | Microsoft | Dec. 2023 | \#RAG<br>\#Embedding
 
 
 ## Etc.
@@ -117,10 +129,10 @@ Following the newest & important LLM papers🤗
 [TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708) | TIES-Merging | NC univ. \@chapel hill | Oct. 2023 | \#ModelMerge
 [UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations](https://arxiv.org/abs/2311.08469) | UNcommonsense | Cornell Univ. | Nov. 2023 | \#Reasoning<br>\#UnusualScenario
 [Language Model Inversion](https://arxiv.org/abs/2311.13647) | - | Cornell Univ. | Nov. 2023 | \#ReverseEngineering<br>\#PromptHacking
-[A Survey of Diffusion Models in Natural Language Processing](https://arxiv.org/abs/2305.14671) | - | Minnesota Univ. | June. 2023 | \#Diffusion<br>\#Survey
 
 
 ## ...Maybe Rather Better Diffuse Than Attend
+
 | Paper | a.k.a | Affiliation | Published date | # | Desc.|
 |-------|-------|-------------|----------------|---|------|
 [Non-Autoregressive Text Generation with Pre-trained Language Models](https://arxiv.org/abs/2102.08220v1) | - | Cambridge Univ. | Feb. 2021 | \#NAG
