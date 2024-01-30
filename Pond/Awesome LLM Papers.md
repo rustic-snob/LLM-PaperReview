@@ -1,4 +1,4 @@
-# Awesome LLM Papers
+![image](https://github.com/rustic-snob/LLM-PaperReview/assets/79959301/f16cddf3-8858-4954-a7ff-8c090824a7f6)# Awesome LLM Papers
 중요한 LLM 관련 논문들을 팔로잉하고 있습니다🤗</br>
 Following the newest & important LLM papers🤗
 
@@ -75,6 +75,7 @@ Following the newest & important LLM papers🤗
 [Reinforcement Learning in the Era of LLMs: What is Essential? What is needed? An RL Perspective on RLHF, Prompting, and Beyond](https://arxiv.org/abs/2310.06147) | - | Cambridge Univ. | Oct. 2023 | \#Survey</br>\#RLHF
 [Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/abs/2307.04964) | - | Fudan NLP Group | Jul. 2023 | \#Survey</br>\#PPO
 [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) | - | Meta | Jan. 2024 | \#Finetuning</br>\#Preference</br>\#SelfJudge
+[A Minimalist Approach to Offline Reinforcement Learning](https://arxiv.org/abs/2106.06860) | - | McGill Univ. | Dec. 2021 | \#OfflineRL
 
 
 ## Mixture-of-Experts
