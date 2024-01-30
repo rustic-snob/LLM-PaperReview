@@ -116,6 +116,8 @@ Following the newest & important LLM papers🤗
 
 
 ## Mamba & State Spaces Model (Read RWKV, RetNet, Hyena)
+| Paper | a.k.a | Affiliation | Published date | # | Desc.|
+|-------|-------|-------------|----------------|---|------|
 [HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669) | HiPPO | Stanford University | Oct. 2020 | \#Architecture
 [Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://arxiv.org/abs/2110.13985) | LSSL | Stanford University | Oct. 2021 | \#Architecture
 [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) | S4 | Stanford University | Aug. 2022 | \#Architecture<br>\#SSM
