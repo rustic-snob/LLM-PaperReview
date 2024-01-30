@@ -1,4 +1,4 @@
-![image](https://github.com/rustic-snob/LLM-PaperReview/assets/79959301/f16cddf3-8858-4954-a7ff-8c090824a7f6)# Awesome LLM Papers
+# Awesome LLM Papers
 중요한 LLM 관련 논문들을 팔로잉하고 있습니다🤗</br>
 Following the newest & important LLM papers🤗
 
