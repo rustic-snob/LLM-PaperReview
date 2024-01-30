@@ -46,6 +46,8 @@ Following the newest & important LLM papers🤗
 [GQA: Training Generalized Multi-Query Transformer Models from Multi-Head Checkpoints](https://arxiv.org/abs/2305.13245) | GQA | Google Research | Oct. 2023 | \#LightWeight<br>\#Attention<br>\#Distillation
 [\*Flash-Decoding for long-context inference](https://crfm.stanford.edu/2023/10/12/flashdecoding.html) | FlashDecoding | Stanford University | Oct. 2023 | \#LightInference<br>\#Attention<br>\#Parallelization
 [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) | StreamingLLM | Massachusetts University | Sep. 2023 | \#LightInference<br>\#Attention<br>\#KVcache
+[Cascade Speculative Drafting for Even Faster LLM Inference](https://arxiv.org/abs/2312.11462) | CS Drafting | Illinois Univ. | Dec. 2023 | \#LightInference
+[Extreme Compression of Large Language Models via Additive Quantization](https://arxiv.org/abs/2401.06118) | AQLM | HSE Univ. | Jan. 2024 | \#LightWeight<br>\#Quantize
 
 
 ## Positional Embedding & Input Length Control
@@ -72,6 +74,7 @@ Following the newest & important LLM papers🤗
 [A General Theoretical Paradigm to Understand Learning from Human Preferences](arxiv.org/abs/2310.12036) | ΨPO | Google DeepMind | Nov. 2023 | \#Finetuning</br>\#ΨPO
 [Reinforcement Learning in the Era of LLMs: What is Essential? What is needed? An RL Perspective on RLHF, Prompting, and Beyond](https://arxiv.org/abs/2310.06147) | - | Cambridge Univ. | Oct. 2023 | \#Survey</br>\#RLHF
 [Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/abs/2307.04964) | - | Fudan NLP Group | Jul. 2023 | \#Survey</br>\#PPO
+[Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) | - | Meta | Jan. 2024 | \#Finetuning</br>\#Preference</br>\#SelfJudge
 
 
 ## Mixture-of-Experts
@@ -95,6 +98,7 @@ Following the newest & important LLM papers🤗
 [LLaMA Beyond English: An Empirical Study on Language Capability Transfer](https://arxiv.org/abs/2401.01055) | - | Fudan University | Jan. 2024 | \#VocabExpand</br>\#Cons
 [LLaMA Pro: Progressive LLaMA with Block Expansion](https://arxiv.org/abs/2401.02415) | LLAMA PRO | Hong Kong Univ. | Jan. 2024 | \#LayerExpand
 [SOLAR 10.7B: Scaling Large Language Models with Simple yet Effective Depth Up-Scaling](https://arxiv.org/abs/2312.15166) | Solar | Upstage | Dec. 2023 | \#LayerExpand
+[The Truth is in There: Improving Reasoning in Language Models with Layer-Selective Rank Reduction](https://arxiv.org/abs/2312.13558) | LASER | MIT | Dec. 2023 | \#LayerDecompose
 
 
 ## Cool New LLM Architecture & Sub-Module
@@ -109,7 +113,17 @@ Following the newest & important LLM papers🤗
 [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770) | FFFs | ETH Zurich | Nov. 2023 | \#FFNN<br>\#Speeding<br>
 [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906) | - | ETH Zurich | Nov. 2023 | \#SubModule<br>\#Speeding<br>\#LightWeight<br>
 [Cached Transformers: Improving Transformers with Differentiable Memory Cache](https://arxiv.org/abs/2312.12742) | Cached Transformers | CUHK | Dec. 2023 | \#Recurrent<br>\#Vision<br>\#Efficiency
-[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | Mamba | Carnegie Mellon Univ. | Dec. 2023 | \#Architecture<br>\#SSM
+
+
+## Mamba & State Spaces Model (Read RWKV, RetNet, Hyena)
+[HiPPO: Recurrent Memory with Optimal Polynomial Projections](https://arxiv.org/abs/2008.07669) | HiPPO | Stanford University | Oct. 2020 | \#Architecture
+[Combining Recurrent, Convolutional, and Continuous-time Models with Linear State-Space Layers](https://arxiv.org/abs/2110.13985) | LSSL | Stanford University | Oct. 2021 | \#Architecture
+[Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) | S4 | Stanford University | Aug. 2022 | \#Architecture<br>\#SSM
+[Hungry Hungry Hippos: Towards Language Modeling with State Space Models](https://arxiv.org/abs/2212.14052) | H3 | Stanford University | April. 2023 | \#Architecture<br>\#SSM
+[Effectively Modeling Time Series with Simple Discrete State Spaces](https://arxiv.org/abs/2303.09489) | - | Stanford University | March. 2023 | \#Architecture<br>\#SSM<br>\#TimeSeries
+[Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) | Mamba | Carnegie Mellon Univ. | Dec. 2023 | \#Architecture<br>\#SSM<br>\#Mamba
+[MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://arxiv.org/abs/2401.04081) | MoE-Mamba | IDEAS NCBR | Jan. 2024 | \#Architecture<br>\#Mamba<br>\#MoE
+[MambaByte: Token-free Selective State Space Model](https://arxiv.org/abs/2401.13660) | MambaByte | Cornell Univ. | Jan. 2024 | \#Architecture<br>\#ByteToken<br>\#Mamba
 
 
 ## Applications
@@ -130,6 +144,7 @@ Following the newest & important LLM papers🤗
 [TIES-Merging: Resolving Interference When Merging Models](https://arxiv.org/abs/2306.01708) | TIES-Merging | NC univ. \@chapel hill | Oct. 2023 | \#ModelMerge
 [UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations](https://arxiv.org/abs/2311.08469) | UNcommonsense | Cornell Univ. | Nov. 2023 | \#Reasoning<br>\#UnusualScenario
 [Language Model Inversion](https://arxiv.org/abs/2311.13647) | - | Cornell Univ. | Nov. 2023 | \#ReverseEngineering<br>\#PromptHacking
+[\*Deep Random micro-Glitch Sampling](https://www.reddit.com/r/LocalLLaMA/comments/18toidc/stop_messing_with_sampling_parameters_and_just/) | DRµGS | qrios | Dec. 2023 | \#DecodingStrate<br>\#Sampling
 
 
 ## ...Maybe Rather Better Diffuse Than Attend
