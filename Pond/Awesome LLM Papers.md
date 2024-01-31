@@ -50,6 +50,7 @@ Following the newest & important LLM papers🤗
 [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) | StreamingLLM | Massachusetts University | Sep. 2023 | \#LightInference<br>\#Attention<br>\#KVcache
 [Cascade Speculative Drafting for Even Faster LLM Inference](https://arxiv.org/abs/2312.11462) | CS Drafting | Illinois Univ. | Dec. 2023 | \#LightInference
 [Extreme Compression of Large Language Models via Additive Quantization](https://arxiv.org/abs/2401.06118) | AQLM | HSE Univ. | Jan. 2024 | \#LightWeight<br>\#Quantize
+[Initializing Models with Larger Ones](https://arxiv.org/abs/2311.18823) | - | Pennsylvania Univ | Nov. 2023 | \#LightWeight<br>\#Distillation-like
 
 
 ## Positional Embedding & Input Length Control
