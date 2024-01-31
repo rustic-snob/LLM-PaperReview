@@ -74,6 +74,7 @@ Following the newest & important LLM papers🤗
 [RRHF: Rank Responses to Align Language Models with Human Feedback without tears](https://arxiv.org/abs/2304.05302) | RRHF | Alibaba DAMO Academy | Oct. 2023 | \#Finetuning</br>\#RLHF
 [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | DPO | Stanford University | May. 2023 | \#Finetuning</br>\#DPO
 [A General Theoretical Paradigm to Understand Learning from Human Preferences](arxiv.org/abs/2310.12036) | ΨPO | Google DeepMind | Nov. 2023 | \#Finetuning</br>\#ΨPO
+[Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation](https://arxiv.org/abs/2401.08417) | CPO | Johns Hopkins Univ. | Jan. 2024 | \#Finetuning</br>\#CPO
 [Reinforcement Learning in the Era of LLMs: What is Essential? What is needed? An RL Perspective on RLHF, Prompting, and Beyond](https://arxiv.org/abs/2310.06147) | - | Cambridge Univ. | Oct. 2023 | \#Survey</br>\#RLHF
 [Secrets of RLHF in Large Language Models Part I: PPO](https://arxiv.org/abs/2307.04964) | - | Fudan NLP Group | Jul. 2023 | \#Survey</br>\#PPO
 [Self-Rewarding Language Models](https://arxiv.org/abs/2401.10020) | - | Meta | Jan. 2024 | \#Finetuning</br>\#Preference</br>\#SelfJudge
