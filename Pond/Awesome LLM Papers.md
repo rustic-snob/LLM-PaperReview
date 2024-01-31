@@ -19,6 +19,8 @@ Following the newest & important LLM papers🤗
 [OpenChat: Advancing Open-source Language Models with Mixed-Quality Data](https://arxiv.org/pdf/2309.11235.pdf) | OpenChat | Tsinghua Univ. | Sep. 2023 | \#Finetuning</br>\#C-RLFT</br>\#Mistral
 [MetaMath: Bootstrap Your Own Mathematical Questions for Large Language Models](https://arxiv.org/abs/2309.12284) | MetaMath | Cambridge Univ. | Oct. 2023 | \#Finetuning</br>\#Math
 [TinyLlama: An Open-Source Small Language Model](https://arxiv.org/abs/2401.02385) | TinyLlama | StatNLP Research Group | Jan. 2024 | \#Finetuning</br>\#Efficient
+[UltraFeedback: Boosting Language Models with High-quality Feedback](https://arxiv.org/abs/2310.01377) | UltraFeedback | Tsinghua Univ. | Oct. 2023 | \#Finetuning</br>\#Dataset</br>\#Preference
+[Qwen Technical Report](https://arxiv.org/abs/2309.16609) | Qwen | Alibaba | Sep. 2023 | \#Foundation</br>\#Servey-like
 
 
 ## PEFT
@@ -148,7 +150,10 @@ Following the newest & important LLM papers🤗
 [UNcommonsense Reasoning: Abductive Reasoning about Uncommon Situations](https://arxiv.org/abs/2311.08469) | UNcommonsense | Cornell Univ. | Nov. 2023 | \#Reasoning<br>\#UnusualScenario
 [Language Model Inversion](https://arxiv.org/abs/2311.13647) | - | Cornell Univ. | Nov. 2023 | \#ReverseEngineering<br>\#PromptHacking
 [\*Deep Random micro-Glitch Sampling](https://www.reddit.com/r/LocalLLaMA/comments/18toidc/stop_messing_with_sampling_parameters_and_just/) | DRµGS | qrios | Dec. 2023 | \#DecodingStrate<br>\#Sampling
-
+[TinyStories: How Small Can Language Models Be and Still Speak Coherent English?](https://arxiv.org/abs/2305.07759) | TinyStories | Microsoft | May. 2023 | \#Dataset<br>\#Synthetic
+[Patchscopes: A Unifying Framework for Inspecting Hidden Representations of Language Models](https://arxiv.org/abs/2401.06102) | Patchscopes | Google Research | Jan. 2024 | \#Representation
+[\*Steering GPT-2-XL by adding an activation vector](https://www.greaterwrong.com/posts/5spBue2z2tw4JuDCx/steering-gpt-2-xl-by-adding-an-activation-vector) | - | TurnTrout | May. 2023 | \#Representation<br>\#Steering
+[Learning Universal Predictors](https://arxiv.org/abs/2401.14953) | - | Google Deepmind | Jan. 2024 | \#Predictor
 
 ## ...Maybe Rather Better Diffuse Than Attend
 
