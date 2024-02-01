@@ -123,6 +123,7 @@ Curated papers in terms of difficulty and coreness (See `HIGHLY RECOMM.` Column)
 [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652) | REPLUG | Washington university | May. 2023 | \#Retrieval<br>\#RAG
 [Improving Text Embeddings with Large Language Models](https://arxiv.org/abs/2401.00368) | - | Microsoft | Dec. 2023 | \#RAG<br>\#Embedding
 [Self-RAG: Learning to Retrieve, Generate, and Critique through Self-Reflection](https://arxiv.org/abs/2310.11511) | Self-RAG | Washington Univ. | Oct. 2023  | \#Retrieval<br>\#RAG
+[Retrieval-Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2312.10997) | - | Tongji Univ. | Jan. 2024 | \#RAG<br>\#Survey
 
 
 
