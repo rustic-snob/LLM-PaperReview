@@ -18,7 +18,12 @@ NLP / LLM 관련 논문 리뷰 레포입니다.
 11.23| [REPLUG: Retrieval-Augmented Black-Box Language Models](https://arxiv.org/abs/2301.12652) | REPLUG | Washington Univ. | May. 2023 | 김한성 | [LINK](https://youtu.be/fXnXH1gKHt4?feature=shared)
 11.30| [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) | Prefix-Tuning | Standford Univ. | Jan. 2021 | 임서연 | [LINK](https://youtu.be/1yQ0FQQ1uI0?si=T9UC9ySqOTucgh3I)
 12.7| [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314) | QLoRA | Washington Univ. | May. 2023 | 이상민 | [LINK](https://youtu.be/QSZwKGB5cPI)
-12.7| [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | DPO | Stanford Univ. | May. 2023 | 천재원 | [LINK](https://youtu.be/zunzfi0ExnQ?si=TJ6tajqfo0eLloCG)
+12.21| [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | DPO | Stanford Univ. | May. 2023 | 천재원 | [LINK](https://youtu.be/zunzfi0ExnQ?si=TJ6tajqfo0eLloCG)
+12.28| [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) | StreamingLLM | MIT | Dec. 2023 | 김가영 | [LINK](https://youtu.be/cLEQ8xX02G8)
+1.4| [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) | vLLM | UC Berkeley | Sep. 2023 | 이주형 | [LINK](https://youtu.be/k9PJf5YFgeI)
+1.18| [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.114010) | RAG | FAIR | April. 2021 | 신중현 | [LINK]()
+1.25| [Mixtral of Experts](https://arxiv.org/abs/2401.04088) | Mixtral | Mistral.AI | Jan. 2024 | 신혁준 | [LINK]()
+2.1| [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions](https://arxiv.org/abs/2310.03016) | - | Oxford Univ. | Oct. 2023 | 김현수 | [LINK]()
 
 ### 1기
   | Paper | a.k.a | Affiliation | published date | Speaker | Youtube
