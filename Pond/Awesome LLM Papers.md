@@ -153,6 +153,7 @@ Curated papers in terms of difficulty and coreness (See `HIGHLY RECOMM.` Column)
 [Exponentially Faster Language Modelling](https://arxiv.org/abs/2311.10770) | FFFs | ETH Zurich | Nov. 2023 | \#FFNN<br>\#Speeding<br>
 [Simplifying Transformer Blocks](https://arxiv.org/abs/2311.01906) | - | ETH Zurich | Nov. 2023 | \#SubModule<br>\#Speeding<br>\#LightWeight<br>
 [Cached Transformers: Improving Transformers with Differentiable Memory Cache](https://arxiv.org/abs/2312.12742) | Cached Transformers | CUHK | Dec. 2023 | \#Recurrent<br>\#Vision<br>\#Efficiency
+[The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://arxiv.org/abs/2402.17764) | 1.58-Bit Transformer | Microsoft | Feb. 2024 | \#Architecture<br>\#Quantized
 
 
 ## Mamba & State Spaces Model
