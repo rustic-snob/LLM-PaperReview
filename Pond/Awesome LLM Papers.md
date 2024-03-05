@@ -58,6 +58,7 @@ Curated papers in terms of difficulty and coreness (See `HIGHLY RECOMM.` Column)
 [Stack More Layers Differently: High-Rank Training Through Low-Rank Updates](https://arxiv.org/abs/2307.05695) | ReLoRA | Massachusetts Lowel | August. 2023 | \#PEFT<br>\#LoRA
 [LoraHub: Efficient Cross-Task Generalization via Dynamic LoRA Composition](https://arxiv.org/abs/2307.13269) | LoRAHub | Sea AI Lab | Jun. 2023 | \#PEFT<br>\#LoRA<br>\#Compose
 [VeRA: Vector-based Random Matrix Adaptation](https://arxiv.org/abs/2310.11454) | VeRA | University of Amsterdam | Oct. 2023 | \#PEFT
+[DoRA: Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2402.09353) | DoRA | NVIDIA | March. 2024 | \#PEFT<br>\#LoRA<br>
 
 
 ## Efficient Transformer
