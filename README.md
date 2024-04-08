@@ -8,7 +8,7 @@ NLP / LLM 관련 논문 리뷰 레포입니다.
 
 ## Semesters
 - 2023 8/6 - 2023 10/19 Every Thursday(Finished).
-- 2023 11/23 - Every Thursday(Ongoing).
+- 2023 11/23 - 2024 2/1 Every Thursday(Finished).
 
 ## 일정 및 선정 논문
 
@@ -21,9 +21,9 @@ NLP / LLM 관련 논문 리뷰 레포입니다.
 12.21| [Direct Preference Optimization: Your Language Model is Secretly a Reward Model](https://arxiv.org/abs/2305.18290) | DPO | Stanford Univ. | May. 2023 | 천재원 | [LINK](https://youtu.be/zunzfi0ExnQ?si=TJ6tajqfo0eLloCG)
 12.28| [Efficient Streaming Language Models with Attention Sinks](https://arxiv.org/abs/2309.17453) | StreamingLLM | MIT | Dec. 2023 | 김가영 | [LINK](https://youtu.be/cLEQ8xX02G8)
 1.4| [Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180) | vLLM | UC Berkeley | Sep. 2023 | 이주형 | [LINK](https://youtu.be/k9PJf5YFgeI)
-1.18| [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.114010) | RAG | FAIR | April. 2021 | 신중현 | [LINK]()
-1.25| [Mixtral of Experts](https://arxiv.org/abs/2401.04088) | Mixtral | Mistral.AI | Jan. 2024 | 신혁준 | [LINK]()
-2.1| [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions](https://arxiv.org/abs/2310.03016) | - | Oxford Univ. | Oct. 2023 | 김현수 | [LINK]()
+1.18| [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks](https://arxiv.org/abs/2005.114010) | RAG | FAIR | April. 2021 | 신중현 | [LINK](https://youtu.be/UL55uIpap4k)
+1.25| [Mixtral of Experts](https://arxiv.org/abs/2401.04088) | Mixtral | Mistral.AI | Jan. 2024 | 신혁준 | [LINK](https://youtu.be/vdLxX72rMG8)
+2.1| [Understanding In-Context Learning in Transformers and LLMs by Learning to Learn Discrete Functions](https://arxiv.org/abs/2310.03016) | - | Oxford Univ. | Oct. 2023 | 김현수 | [LINK](https://youtu.be/-TDmT_S8xUk)
 
 ### 1기
   | Paper | a.k.a | Affiliation | published date | Speaker | Youtube
